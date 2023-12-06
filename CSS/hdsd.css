@@ -1,0 +1,210 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+div.container {
+    position: relative;
+    inset-block-start: 100px;
+}
+
+div.phan1 {
+    inline-size: 100%;
+    block-size: 200px;
+    background-color: rgb(0, 25, 40);
+}
+div.phan2 {
+    inline-size: 100%;
+    block-size: 17000px;
+    background-color: #b0cccf;
+}
+
+div.text {
+    inline-size: 80%;
+    float: inline-end;
+    text-align: justify;
+    font-size: 15px;
+    padding-inline-start: 10px;
+    background-color: #b0cccf;
+     block-size: 500px; 
+}
+div.hinh {
+    block-size: 100px;
+    inline-size: 50%;
+    float: inline-end;
+}
+
+div.phan2 div.text div.hinh img {
+    inline-size: 50%;
+    position: relative;
+    inset-block-start: 10px;
+}
+div.phan3 {
+    inline-size: 100%;
+    block-size: 4500px;
+    background-color: #b0cfbe;
+}
+div.hinh2 {
+    block-size: 100px;
+    inline-size: 50%;
+    float: inline-end;
+}
+div.text2 {
+    inline-size: 80%;
+    float: inline-end;
+    text-align: justify;
+    font-size: 15px;
+    padding-inline-start: 10px;
+    background-color: #b0cfbe;
+     block-size: 500px; 
+}
+div.phan3 div.text2 div.hinh2 img {
+    inline-size: 50%;
+    position: relative;
+    inset-block-start: 10px;
+}
+div.phan4 {
+    inline-size: 100%;
+    block-size: 3300px;
+    background-color: #b0cccf;
+}
+div.hinh3 {
+    block-size: 100px;
+    inline-size: 50%;
+    float: inline-end;
+}
+div.text3 {
+    inline-size: 80%;
+    float: inline-end;
+    text-align: justify;
+    font-size: 15px;
+    padding-inline-start: 10px;
+    background-color: #b0cccf;
+     block-size: 500px; 
+}
+div.phan4 div.text3 div.hinh3 img {
+    inline-size: 50%;
+    position: relative;
+    inset-block-start: 10px;
+}
+div.phan5 {
+    inline-size: 100%;
+    block-size: 5000px;
+    background-color: #b0cfbe;
+}
+div.hinh4 {
+    block-size: 100px;
+    inline-size: 50%;
+    float: inline-end;
+}
+div.text4 {
+    inline-size: 80%;
+    float: inline-end;
+    text-align: justify;
+    font-size: 15px;
+    padding-inline-start: 10px;
+    background-color: #b0cfbe;
+     block-size: 500px; 
+}
+div.phan5 div.text4 div.hinh4 img {
+    inline-size: 50%;
+    position: relative;
+    inset-block-start: 10px;
+}
+div.phan6 {
+    inline-size: 100%;
+    block-size: 4000px;
+    background-color: #b0cccf;
+}
+div.hinh5 {
+    block-size: 100px;
+    inline-size: 50%;
+    float: inline-end;
+}
+div.text5 {
+    inline-size: 80%;
+    float: inline-end;
+    text-align: justify;
+    font-size: 15px;
+    padding-inline-start: 10px;
+    background-color: #b0cccf;
+     block-size: 500px; 
+}
+div.phan6 div.text5 div.hinh5 img {
+    inline-size: 50%;
+    position: relative;
+    inset-block-start: 10px;
+}
+div.phan7 {
+    inline-size: 100%;
+    block-size: 1500px;
+    background-color: #b0cfbe;
+}
+div.hinh6 {
+    block-size: 100px;
+    inline-size: 50%;
+    float: inline-end;
+}
+div.text6 {
+    inline-size: 80%;
+    float: inline-end;
+    text-align: justify;
+    font-size: 15px;
+    padding-inline-start: 10px;
+    background-color: #b0cfbe;
+     block-size: 500px; 
+}
+div.phan7 div.text6 div.hinh6 img {
+    inline-size: 50%;
+    position: relative;
+    inset-block-start: 10px;
+}
+div.phan8 {
+    inline-size: 100%;
+    block-size: 4300px;
+    background-color: #b0cccf;
+}
+div.hinh7 {
+    block-size: 100px;
+    inline-size: 50%;
+    float: inline-end;
+}
+div.text7 {
+    inline-size: 80%;
+    float: inline-end;
+    text-align: justify;
+    font-size: 15px;
+    padding-inline-start: 10px;
+    background-color: #b0cccf;
+     block-size: 500px; 
+}
+div.phan8 div.text7 div.hinh7 img {
+    inline-size: 50%;
+    position: relative;
+    inset-block-start: 10px;
+}
+div.phan9 {
+    inline-size: 100%;
+    block-size: 4700px;
+    background-color: #b0cfbe;
+}
+div.hinh8 {
+    block-size: 100px;
+    inline-size: 50%;
+    float: inline-end;
+}
+div.text8 {
+    inline-size: 80%;
+    float: inline-end;
+    text-align: justify;
+    font-size: 15px;
+    padding-inline-start: 10px;
+    background-color: #b0cfbe;
+     block-size: 500px; 
+}
+div.phan9 div.text8 div.hinh8 img {
+    inline-size: 50%;
+    position: relative;
+    inset-block-start: 10px;
+}
