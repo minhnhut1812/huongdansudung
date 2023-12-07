@@ -30,8 +30,8 @@ div.text {
      height: 500px; 
 }
 div.hinh {
-    height: 50px;
-    width: 10%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 
