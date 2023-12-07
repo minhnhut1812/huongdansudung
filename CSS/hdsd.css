@@ -6,7 +6,7 @@
 }
 div.container {
     position: relative;
-    top: 50px;
+    top: 100px;
 }
 
 div.phan1 {
@@ -46,8 +46,8 @@ div.phan3 {
     background-color: #b0cfbe;
 }
 div.hinh2 {
-    height: 50px;
-    width: 10%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text2 {
@@ -70,8 +70,8 @@ div.phan4 {
     background-color: #b0cccf;
 }
 div.hinh3 {
-    height: 50px;
-    width: 10%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text3 {
@@ -94,8 +94,8 @@ div.phan5 {
     background-color: #b0cfbe;
 }
 div.hinh4 {
-    height: 50px;
-    width: 10%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text4 {
@@ -118,8 +118,8 @@ div.phan6 {
     background-color: #b0cccf;
 }
 div.hinh5 {
-    height: 50px;
-    width: 10%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text5 {
@@ -142,8 +142,8 @@ div.phan7 {
     background-color: #b0cfbe;
 }
 div.hinh6 {
-    height: 50px;
-    width: 10%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text6 {
@@ -166,8 +166,8 @@ div.phan8 {
     background-color: #b0cccf;
 }
 div.hinh7 {
-    height: 50px;
-    width: 10%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text7 {
@@ -190,8 +190,8 @@ div.phan9 {
     background-color: #b0cfbe;
 }
 div.hinh8 {
-    height: 50px;
-    width: 10%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text8 {
