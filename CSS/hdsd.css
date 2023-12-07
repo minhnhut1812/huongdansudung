@@ -30,7 +30,7 @@ div.text {
      block-size: 500px; 
 }
 div.hinh {
-    block-size: 100px;
+    block-size: 100;
     inline-size: 50%;
     float: inline-end;
 }
