@@ -6,205 +6,205 @@
 }
 div.container {
     position: relative;
-    inset-block-start: 100px;
+    top: 100px;
 }
 
 div.phan1 {
-    inline-size: 100%;
-    block-size: 200px;
+    width: 100%;
+    height: 200px;
     background-color: rgb(0, 25, 40);
 }
 div.phan2 {
-    inline-size: 100%;
-    block-size: 14800px;
+    width: 100%;
+    height: 14800px;
     background-color: #b0cccf;
 }
 
 div.text {
-    inline-size: 80%;
+    width: 80%;
     float: inline-end;
     text-align: justify;
     font-size: 15px;
-    padding-inline-start: 10px;
+    padding-left: 10px;
     background-color: #b0cccf;
-     block-size: 500px; 
+     height: 500px; 
 }
 div.hinh {
-    block-size: 100;
-    inline-size: 50%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 
 div.phan2 div.text div.hinh img {
-    inline-size: 50%;
+    width: 50%;
     position: relative;
-    inset-block-start: 10px;
+    top: 10px;
 }
 div.phan3 {
-    inline-size: 100%;
-    block-size: 4200px;
+    width: 100%;
+    height: 4200px;
     background-color: #b0cfbe;
 }
 div.hinh2 {
-    block-size: 100px;
-    inline-size: 50%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text2 {
-    inline-size: 80%;
+    width: 80%;
     float: inline-end;
     text-align: justify;
     font-size: 15px;
-    padding-inline-start: 10px;
+    padding-left: 10px;
     background-color: #b0cfbe;
-     block-size: 500px; 
+     height: 500px; 
 }
 div.phan3 div.text2 div.hinh2 img {
-    inline-size: 50%;
+    width: 50%;
     position: relative;
-    inset-block-start: 10px;
+    top: 10px;
 }
 div.phan4 {
-    inline-size: 100%;
-    block-size: 3200px;
+    width: 100%;
+    height: 3200px;
     background-color: #b0cccf;
 }
 div.hinh3 {
-    block-size: 100px;
-    inline-size: 50%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text3 {
-    inline-size: 80%;
+    width: 80%;
     float: inline-end;
     text-align: justify;
     font-size: 15px;
-    padding-inline-start: 10px;
+    padding-left: 10px;
     background-color: #b0cccf;
-     block-size: 500px; 
+     height: 500px; 
 }
 div.phan4 div.text3 div.hinh3 img {
-    inline-size: 50%;
+    width: 50%;
     position: relative;
-    inset-block-start: 10px;
+    top: 10px;
 }
 div.phan5 {
-    inline-size: 100%;
-    block-size: 4700px;
+    width: 100%;
+    height: 4700px;
     background-color: #b0cfbe;
 }
 div.hinh4 {
-    block-size: 100px;
-    inline-size: 50%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text4 {
-    inline-size: 80%;
+    width: 80%;
     float: inline-end;
     text-align: justify;
     font-size: 15px;
-    padding-inline-start: 10px;
+    padding-left: 10px;
     background-color: #b0cfbe;
-     block-size: 500px; 
+     height: 500px; 
 }
 div.phan5 div.text4 div.hinh4 img {
-    inline-size: 50%;
+    width: 50%;
     position: relative;
-    inset-block-start: 10px;
+    top: 10px;
 }
 div.phan6 {
-    inline-size: 100%;
-    block-size: 3600px;
+    width: 100%;
+    height: 3600px;
     background-color: #b0cccf;
 }
 div.hinh5 {
-    block-size: 100px;
-    inline-size: 50%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text5 {
-    inline-size: 80%;
+    width: 80%;
     float: inline-end;
     text-align: justify;
     font-size: 15px;
-    padding-inline-start: 10px;
+    padding-left: 10px;
     background-color: #b0cccf;
-     block-size: 500px; 
+     height: 500px; 
 }
 div.phan6 div.text5 div.hinh5 img {
-    inline-size: 50%;
+    width: 50%;
     position: relative;
-    inset-block-start: 10px;
+    top: 10px;
 }
 div.phan7 {
-    inline-size: 100%;
-    block-size: 1200px;
+    width: 100%;
+    height: 1200px;
     background-color: #b0cfbe;
 }
 div.hinh6 {
-    block-size: 100px;
-    inline-size: 50%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text6 {
-    inline-size: 80%;
+    width: 80%;
     float: inline-end;
     text-align: justify;
     font-size: 15px;
-    padding-inline-start: 10px;
+    padding-left: 10px;
     background-color: #b0cfbe;
-     block-size: 500px; 
+     height: 500px; 
 }
 div.phan7 div.text6 div.hinh6 img {
-    inline-size: 50%;
+    width: 50%;
     position: relative;
-    inset-block-start: 10px;
+    top: 10px;
 }
 div.phan8 {
-    inline-size: 100%;
-    block-size: 4000px;
+    width: 100%;
+    height: 4000px;
     background-color: #b0cccf;
 }
 div.hinh7 {
-    block-size: 100px;
-    inline-size: 50%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text7 {
-    inline-size: 80%;
+    width: 80%;
     float: inline-end;
     text-align: justify;
     font-size: 15px;
-    padding-inline-start: 10px;
+    padding-left: 10px;
     background-color: #b0cccf;
-     block-size: 500px; 
+     height: 500px; 
 }
 div.phan8 div.text7 div.hinh7 img {
-    inline-size: 50%;
+    width: 50%;
     position: relative;
-    inset-block-start: 10px;
+    top: 10px;
 }
 div.phan9 {
-    inline-size: 100%;
-    block-size: 4200px;
+    width: 100%;
+    height: 4200px;
     background-color: #b0cfbe;
 }
 div.hinh8 {
-    block-size: 100px;
-    inline-size: 50%;
+    height: 100px;
+    width: 50%;
     float: inline-end;
 }
 div.text8 {
-    inline-size: 80%;
+    width: 80%;
     float: inline-end;
     text-align: justify;
     font-size: 15px;
-    padding-inline-start: 10px;
+    padding-left: 10px;
     background-color: #b0cfbe;
-     block-size: 500px; 
+     height: 500px; 
 }
 div.phan9 div.text8 div.hinh8 img {
-    inline-size: 50%;
+    width: 50%;
     position: relative;
-    inset-block-start: 10px;
+    top: 10px;
 }
