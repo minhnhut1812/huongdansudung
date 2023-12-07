@@ -31,7 +31,7 @@ div.text {
 }
 div.hinh {
     height: 100px;
-    width: 100%;
+    width: 50%;
     float: inline-end;
 }
 
